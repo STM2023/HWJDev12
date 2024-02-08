@@ -1,0 +1,6 @@
+2024-02-05 23:01:58.764103+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENT" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.name from client c1_0 where c1_0.id=? [42104-224]
+2024-02-05 23:29:22.376890+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENT" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.name from client c1_0 where c1_0.id=? [42104-224]
